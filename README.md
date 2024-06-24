@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ankit Raj. I am final year Undergraduate<br><br>🌱 I’m currently learning React.js and Typescript<br>💬 Ask me about JavaScript<br>
+I am Ankit Raj. I am final year Undergraduate<br><br>🌱 I’m currently learning Next.js, React.js and Typescript<br>💬 Ask me about JavaScript<br>
 
 
 ## 🌐 Socials:
