@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ankit Raj. I am final year Undergraduate<br><br>🌱 I’m currently learning Next.js, React.js and Typescript<br>💬 Ask me about JavaScript<br>
+I am Ankit Raj. I am Data Engineer by profession<br><br>🌱 I’m currently learning Data engineering stacks<br>💬 Ask me about Data<br>
 
 
 ## 🌐 Socials:
